@@ -1,7 +1,0 @@
-let string = prompt("string typedagi malumot kiriting")
-let number = +prompt("number typedagi malumot kiriting")
-let boolean = boolean(prompt("boolean typedagi malumot kiriting"))
-alert("hamma malumotlarni togri kiritganizga ishonchingiz komilmi?")
-alert(`Siz kiritgan ${string} sozi ${typeof string} typega tegishly`)
-alert(`Siz kiritgan ${number} sozi ${typeof number} typega tegishly`)
-alert(`Siz kiritgan ${boolean} sozi ${typeof boolean} typega tegishly`)
